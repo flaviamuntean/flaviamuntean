@@ -31,8 +31,8 @@ const flavia = {
 **📈 Stats**
 
 <p>
-  <img width='480' src="https://github-readme-streak-stats.herokuapp.com/?user=flaviamuntean&currStreakLabel=3181EC&fire=3181EC&ring=3181EC&v=2" alt="GitHub Stats" />
-  <img width='480' src="https://github-readme-stats.vercel.app/api/wakatime?username=flaviamuntean&custom_title=This%20week%20I%20spent%20my%20time%20on%20"&v=2 alt="WakaTime" />
+  <img width='450' src="https://github-readme-streak-stats.herokuapp.com/?user=flaviamuntean&currStreakLabel=3181EC&fire=3181EC&ring=3181EC&v=2" alt="GitHub Stats" />
+  <img width='450' src="https://github-readme-stats.vercel.app/api/wakatime?username=flaviamuntean&custom_title=This%20week%20I%20spent%20my%20time%20on%20"&v=2 alt="WakaTime" />
 </p>
 
 **🎮 Bonus: watch Snake eat my contributions**
