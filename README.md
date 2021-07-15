@@ -23,7 +23,7 @@ const flavia = {
   code: [JavaScript, Ruby, HTML, CSS, Python],
   tools: [RoR, React, React Native, Expo, Redux, Gatsby, Jest],
   currentlyLearning: [TypeScript, Natural Language Processing (NLP), Greek],
-  interests: ['languages', 'reading', 'running']
+  interests: ['languages', 'reading', 'running', 'hiking']
 }
 ```
 </br>
