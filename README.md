@@ -1,6 +1,6 @@
  ## Hi, I'm Flavia 👋🏼
 
-I'm a full-stack software developer who is passionate about <b>tech for good</b>, building solutions that make a difference and learning new languages.
+I'm a full-stack software developer who is passionate about <b>Tech for Good</b>, solving real-world problems and learning new languages - both natural and programming ones. I enjoy making use of my obsessive attention to detail while building solutions that make a difference.
 
 <p>
   <em>
