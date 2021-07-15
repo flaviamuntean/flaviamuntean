@@ -30,10 +30,13 @@ const flavia = {
 
 **📈 Stats**
 
-<p>
-  <img width='450' src="https://github-readme-streak-stats.herokuapp.com/?user=flaviamuntean&currStreakLabel=3181EC&fire=3181EC&ring=3181EC&v=2" alt="GitHub Stats" />
-  <img width='450' src="https://github-readme-stats.vercel.app/api/wakatime?username=flaviamuntean&custom_title=This%20week%20I%20spent%20my%20time%20on%20"&v=2 alt="WakaTime" />
-</p>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=flaviamuntean&currStreakLabel=3181EC&fire=3181EC&ring=3181EC&v=2">
+  <img width='450' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviamuntean&currStreakLabel=3181EC&fire=3181EC&ring=3181EC&v=2" alt="GitHub Stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=flaviamuntean&custom_title=This%20week%20I%20spent%20my%20time%20on%20&v=2">
+  <img width='450' align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flaviamuntean&custom_title=This%20week%20I%20spent%20my%20time%20on%20&v=2" alt="WakaTime" />
+</a>
+</br></br>
 
 **🎮 Bonus: watch Snake eat my contributions**
 <img src="https://github.com/flaviamuntean/flaviamuntean/blob/output/github-contribution-grid-snake.svg" alt="Snake Gif" /> <br/><br/>
