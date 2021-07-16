@@ -9,7 +9,7 @@ I'm a full-stack software developer who is passionate about <b>Tech for Good</b>
     </br>
     <a href="https://www.lewagon.com">Le Wagon</a> Graduate<img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="40">
   </br>
-  Previously: Translator at <a href="https://www.europarl.europa.eu/portal/en">European Parliament</a> & language technology automation specialist
+  Previously: Translator at the <a href="https://www.europarl.europa.eu/portal/en">European Parliament</a> & language technology automation specialist
   <img src="https://media.giphy.com/media/m9bRfLRXpdlnGgQDi1/giphy.gif" width="40">  
   </em>
 </p>
