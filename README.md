@@ -22,7 +22,7 @@ I'm a full-stack software developer who is passionate about <b>Tech for Good</b>
 const flavia = {
   code: [JavaScript, Ruby, HTML, CSS, Python],
   tools: [RoR, React, React Native, Expo, Redux, Gatsby, Jest],
-  currentlyLearning: [TypeScript, Natural Language Processing (NLP), Greek],
+  currentlyLearning: [TypeScript, Swift, Natural Language Processing (NLP), Greek],
   interests: ['languages', 'reading', 'running', 'hiking']
 }
 ```
